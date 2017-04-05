@@ -1,7 +1,7 @@
 'use strict';
 
 const Contact = use('App/Model/Contact');
-const attributes = ['first-name', 'last-name', 'birthday'];
+const attributes = ['first-name', 'last-name'];
 
 class ContactController {
 
